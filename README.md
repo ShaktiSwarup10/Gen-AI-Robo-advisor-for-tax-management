@@ -113,6 +113,6 @@ A showcase of retrieval and generative AI integration for real-world financial a
 Contributions are welcome! Feel free to submit pull requests, report bugs, or suggest new features via GitHub issues. Let’s make this Robo Advisor even better together! 🤝
 
 📬 Contact
-Have questions or ideas? Reach out via your-email@example.com or open an issue on GitHub. 📧
+Have questions or ideas? open an issue on GitHub. 📧
 
 🌟 Happy Investing & Tax Planning! 🌟
